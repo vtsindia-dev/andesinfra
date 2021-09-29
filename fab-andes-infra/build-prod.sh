@@ -1,0 +1,1 @@
+docker build -f dockerfiles/Dockerfile.prod -t fab-service-prod-img --no-cache .
